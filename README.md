@@ -1,5 +1,9 @@
-- IT professional specialing in implementing modern devops tools and practices in a large enterprise environment with many teams.
-- Coding expertise
+- Domain Architect - Enterprise DevOps
+  - Governance
+  - Architecture
+  - Cloud
+  - Agile
+- Development Background
   -  C# / dotnet
   -  SQL (Oracle, SQL Server, Postgres, etc.)
   -  TypeScript / Javasctript / React
