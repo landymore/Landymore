@@ -1,2 +1,7 @@
-# Kevin Landymore
-Seasoned IT professional specialing in implementing modern devops tools and practices in large enterprises with many teams.
+- IT professional specialing in implementing modern devops tools and practices in a large enterprise environment with many teams.
+- Coding expertise
+  -  C# / dotnet
+  -  SQL (Oracle, SQL Server, Postgres, etc.)
+  -  TypeScript / Javasctript / React
+  -  Objective C
+- Contributions made using this account are not on behalf of any employer or 3rd party, they are my own work.
